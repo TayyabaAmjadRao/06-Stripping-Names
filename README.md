@@ -1,0 +1,1 @@
+# 06-Stripping-Names
